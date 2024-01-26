@@ -20,7 +20,7 @@ Using plugins:
   proposal-optional-catch-binding { samsung < 9 }
   syntax-async-generators
   syntax-object-rest-spread
-  proposal-unicode-property-regex { samsung < 9 }
+  proposal-unicode-property-regex { samsung }
   transform-named-capturing-groups-regex { samsung < 9 }
   proposal-export-namespace-from { samsung < 11.0 }
   transform-modules-commonjs
